@@ -21,6 +21,27 @@ Solution #2: Servo controlled pulley system. THis idea was to make a pulley syst
 ## Schedule and delegation of work
 
 ## Code
+'''
+import board
+import time
+import digitalio
+led = digitalio.DigitalInOut(board.D3)
+led.direction = digitalio.Direction.OUTPUT
+
+button = digitalio.DigitalInOut(board.D7)
+button.direction = digitalio.Direction.INPUT
+button.pull = digitalio.Pull.UP
+
+while True:
+    if button.value is False:
+        led.value = True
+        print("engaged")
+        time.sleep(0.1)
+    else:
+        led.value = False
+        print("disengaged")
+        time.sleep(0.1)
+'''
 
 ## Evidence
 
