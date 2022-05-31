@@ -21,7 +21,9 @@ Solution #2: Servo controlled pulley system. THis idea was to make a pulley syst
 ## Schedule and delegation of work
 
 ## Code
-'''
+
+'''python
+
 import board
 import time
 import digitalio
