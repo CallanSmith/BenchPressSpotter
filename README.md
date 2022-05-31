@@ -22,7 +22,7 @@ Solution #2: Servo controlled pulley system. THis idea was to make a pulley syst
 
 ## Code
 
-'''python
+```python
 
 import board
 import time
@@ -43,7 +43,7 @@ while True:
         led.value = False
         print("disengaged")
         time.sleep(0.1)
-'''
+```
 
 ## Evidence
 
