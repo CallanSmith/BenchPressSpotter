@@ -19,3 +19,9 @@ Solution #2: Servo controlled pulley system. THis idea was to make a pulley syst
 ## List of matierals
 
 ## Schedule and delegation of work
+
+## Code
+
+## Evidence
+
+## Reflection
