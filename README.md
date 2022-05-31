@@ -27,24 +27,26 @@ Solution #2: Servo controlled pulley system. THis idea was to make a pulley syst
 import board
 import time
 import digitalio
-led = digitalio.DigitalInOut(board.D3)
+led = digitalio.DigitalInOut(board.D3) # led is not a led by relay, code mirrored led code so that is why that is what the variable is called
 led.direction = digitalio.Direction.OUTPUT
 
-button = digitalio.DigitalInOut(board.D7)
+button = digitalio.DigitalInOut(board.D7) # creating button variable
 button.direction = digitalio.Direction.INPUT
 button.pull = digitalio.Pull.UP
 
 while True:
-    if button.value is False:
+    if button.value is False: # if button pressed, turn relay on 
         led.value = True
         print("engaged")
         time.sleep(0.1)
     else:
-        led.value = False
+        led.value = False # if not then turn relay off 
         print("disengaged")
         time.sleep(0.1)
 ```
 
-## Evidence
+The code for this project was very simple compared to the mechanical side of it, all the code does is turn on the relay when button is pressed, and when button is not pressed relay is off.
+
+
 
 ## Reflection
