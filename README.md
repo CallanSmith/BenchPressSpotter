@@ -53,6 +53,6 @@ https://user-images.githubusercontent.com/71349670/171199708-31514010-6b1a-464e-
 
 <img src="Keyes-SR1y-with-Arduino-LED-STRIP.jpg" alt="The Wiring" width="500">
 
-T
+<img src="Keyes-SR1y-with-Arduino-LED-STRIP.jpg" alt="The Wiring" width="500">
 
 ## Reflection
