@@ -51,6 +51,8 @@ The code for this project was very simple compared to the mechanical side of it,
 
 https://user-images.githubusercontent.com/71349670/171199708-31514010-6b1a-464e-92c0-694f5d2c34ee.mp4
 
+## Wiring
+
 
 
 ## Reflection
