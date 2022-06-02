@@ -17,18 +17,31 @@ Final Solutiion:
 ## List of matierals
 
 -1 Adafruit Metro Express Board 
+
 -1 DFRobot Backpack 
+
 -2 Keyes_SR1y relay module 
+
 -2 12V Tetrix DC Gear Motor Model V2 
+
 -2 12V batteries 
+
 -2 3D-Printed Motor hooks 
+
 -1 3D-Printed Seatbelt hook 
+
 -2 Seatbelt 
+
 -1 Rope 
+
 -1 Button 
+
 -2 Motor Clamps 
+
 -1 9V battery 
+
 -1 Laser-Cut Foot Pedal 
+
 -A lot of Alligator Clips and wires
 
 ## Schedule and delegation of work
