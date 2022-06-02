@@ -14,8 +14,6 @@ Solution #1: Two simple articulated arms that would pick up bar and rerack it. T
 Solution #2: Servo controlled pulley system. THis idea was to make a pulley system that could move the bar up. The advatages of this idea are that it would be able to handle the load of the bar, the disadvantages of this idea are that it can't retract when sucesfully completing a rep.
 
 
-## Design sketches/images
-
 ## List of matierals
 
 ## Schedule and delegation of work
@@ -53,7 +51,10 @@ https://user-images.githubusercontent.com/71349670/171199708-31514010-6b1a-464e-
 
 ## Wiring
 
-
 <img src="Keyes-SR1y-with-Arduino-LED-STRIP.jpg" alt="The Wiring" width="500">
+
+<img src="Wiring.PNG" alt="The Wiring" width="300">
+
+The first picture shows a wiring diagram simalir to ours as it uses a relay, battery, and some output, our actual wiring differs in that it uses two relays, as well as two motors. Also the only the ON part of our relay connects to the motor, and the COM part goes to the battery. We also used a switch where one side attathces to the board, in the same row as on of the relay pins, and one side attachtes to pin 7 on the metro board.
 
 ## Reflection
