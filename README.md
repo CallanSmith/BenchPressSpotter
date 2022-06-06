@@ -100,7 +100,7 @@ The hook used to hold the seatbelt up
 
 <img src="Finalhook.jpg" alt="The motor hook" width="300">
 The hook used to hold the motors up
-(We started off with a design that had a hook on either side. This caused the motors to twist when put under a lot of load. We ended with this design of a flat end with holes to use a clamp on the end. Here is the [original hook design](OGhook.JPG)
+(We started off with a design that had a hook on either side. This caused the motors to twist when put under a lot of load. We ended with this design of a flat end with holes to use a clamp on the end. Here is the [original hook design](OGhook.JPG))
 
 ## Wiring
 
