@@ -95,6 +95,12 @@ seatbelt we used
 <img src="switch.PNG" alt="The foot pedal" width="300">
 footpedal we used as our switch
 
+<img src="Motorhook.jpg" alt="The motor hook" width="300">
+The hook used to hold the seatbelt up
+
+<img src="Finalhook.jpg" alt="The motor hook" width="300">
+The hook used to hold the motors up
+
 ## Wiring
 
 <img src="Keyes-SR1y-with-Arduino-LED-STRIP.jpg" alt="The Wiring" width="500">
