@@ -1,5 +1,9 @@
 # BenchPressSpotter
 
+## Planning
+
+[This is our planning document](https://docs.google.com/document/d/13RjaRSH5pWMvB6D0o1lA_RDuDaTp80AB6IlN37TVm_s/edit?usp=sharing) 
+
 ## Description
 
 Our goal for this project is to create a bench press spotting machine that allows someone to re rack a failed rep by assisting with 20+ lbs of load. The problem we are trying to solve is the danger of not having a spotter when going for a 1 rep max.
